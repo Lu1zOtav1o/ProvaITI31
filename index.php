@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Geovanna Chiara e Luiz Otávio</h1>
+    <img src="Imagens/pizza.webp" />
 </body>
 </html>
